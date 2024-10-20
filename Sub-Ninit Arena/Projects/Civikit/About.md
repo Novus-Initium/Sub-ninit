@@ -1,0 +1,1 @@
+Cvikit is a Civic tooling kit design to tune and blend various governance mechanisms, capital formation and allocation mechanisms, social 

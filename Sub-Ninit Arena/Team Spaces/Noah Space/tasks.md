@@ -1,0 +1,1 @@
+- [ ] contract payments ; do we look into 1099s and reporting?

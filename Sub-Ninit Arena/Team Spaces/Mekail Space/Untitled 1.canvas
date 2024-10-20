@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"1034b5cb20dc6863","type":"text","text":"Projects","x":-460,"y":-209,"width":300,"height":60},
+		{"id":"548a746611e57413","type":"text","text":"Rounds","x":-87,"y":-209,"width":327,"height":60},
+		{"id":"38fb6a755b01d5f2","type":"text","text":"- Create a round\n- View rounds\n\t- Live rounds\n\t\t- View projects in round\n\t\t- Apply to round\n\t- Future Rounds\n\t- Past Rounds\n- Manage Rounds \n","x":-93,"y":-120,"width":340,"height":280},
+		{"id":"60ca076a338e7076","type":"text","text":"Live rounds","x":-93,"y":130,"width":157,"height":50},
+		{"id":"352bb28e1d802452","type":"text","text":"Manage Rounds","x":77,"y":128,"width":183,"height":54},
+		{"id":"a0db9f3428d0f7f3","type":"text","text":"Manage Project","x":395,"y":70,"width":250,"height":60},
+		{"id":"618783a982148f13","type":"text","text":"Manager","x":305,"y":-209,"width":330,"height":60},
+		{"id":"2ffb9dd86bd50210","type":"text","text":"- Manage Projects\n- Manage Rounds\n- Review Donations","x":300,"y":-120,"width":340,"height":110},
+		{"id":"d09cf4846147160d","type":"text","text":"Manage Round","x":395,"y":0,"width":250,"height":60},
+		{"id":"cf0b95262e60a605","type":"text","text":"Manage your project(s)","x":-450,"y":220,"width":230,"height":60},
+		{"id":"681e9cdbee938fad","type":"text","text":"View your project(s)","x":-460,"y":98,"width":250,"height":60},
+		{"id":"a9eda64abf23fd66","type":"text","text":" Create a project\n","x":-457,"y":-30,"width":247,"height":60},
+		{"id":"6a9ac2d85b852c27","type":"text","text":"Apply to a round","x":-457,"y":360,"width":250,"height":60},
+		{"id":"15d21de194e15b70","x":385,"y":220,"width":250,"height":60,"type":"text","text":"Donation Review / IMPs dashboard"}
+	],
+	"edges":[
+		{"id":"4aca4beffa718131","fromNode":"1034b5cb20dc6863","fromSide":"left","toNode":"681e9cdbee938fad","toSide":"left"},
+		{"id":"6d38be243ad6f6cb","fromNode":"1034b5cb20dc6863","fromSide":"left","toNode":"cf0b95262e60a605","toSide":"left"},
+		{"id":"7794e032112c3036","fromNode":"1034b5cb20dc6863","fromSide":"left","toNode":"6a9ac2d85b852c27","toSide":"left"},
+		{"id":"0c78025b6a63f2f3","fromNode":"38fb6a755b01d5f2","fromSide":"bottom","toNode":"60ca076a338e7076","toSide":"top"},
+		{"id":"1e76c2dbd81fd270","fromNode":"6a9ac2d85b852c27","fromSide":"right","toNode":"60ca076a338e7076","toSide":"left"},
+		{"id":"9b4c86216bc0b8d6","fromNode":"d09cf4846147160d","fromSide":"left","toNode":"352bb28e1d802452","toSide":"right"},
+		{"id":"de194b9a85a075be","fromNode":"a0db9f3428d0f7f3","fromSide":"right","toNode":"cf0b95262e60a605","toSide":"bottom"},
+		{"id":"2755cecc7335f7eb","fromNode":"618783a982148f13","fromSide":"bottom","toNode":"2ffb9dd86bd50210","toSide":"top"},
+		{"id":"3083c191c401a9a0","fromNode":"548a746611e57413","fromSide":"bottom","toNode":"38fb6a755b01d5f2","toSide":"top"},
+		{"id":"7d49405cea9292f1","fromNode":"1034b5cb20dc6863","fromSide":"left","toNode":"a9eda64abf23fd66","toSide":"left"},
+		{"id":"7fa3c37970d3074b","fromNode":"2ffb9dd86bd50210","fromSide":"right","toNode":"15d21de194e15b70","toSide":"right"}
+	]
+}
