@@ -1,0 +1,2 @@
+- [ ] Finish Interviewing hackers in [[Allo Abode]]
+- [x] Submit Civikit application to OSS Dev Tooling round [[GG22]]

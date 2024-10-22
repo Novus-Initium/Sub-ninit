@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "5656586883d13819",
+    "type": "split",
+    "children": [
+      {
+        "id": "b702036c0ee17ff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7321330a4517f451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub-Ninit Arena/Tasks/Allo Abode.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a45955c8957d53f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "26d05a394739435b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb5e4b54b525785",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "32d93805e1b4fcba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fbc43e13bffd5bb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c90362fd30b27fba",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ef9fe9ae874081a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0560bd8ede7562a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sub-Ninit Arena/Tasks/Allo Abode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6aacfead075eebfc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sub-Ninit Arena/Tasks/Allo Abode.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4ddd6259871d775",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d29b35226d0c55b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sub-Ninit Arena/Tasks/Allo Abode.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7321330a4517f451",
+  "lastOpenFiles": [
+    "Sub-Ninit Arena/Tasks/Civikit.md",
+    "Sub-Ninit Arena/Team Spaces/Jade Space/October.md",
+    "Sub-Ninit Arena/Tasks/GG22.md",
+    "Sub-Ninit Arena/Tasks/Allo Abode.md",
+    "Sub-Ninit Arena/Projects/Hacker Houses",
+    "Sub-Ninit Arena/Projects/Civikit/About.md",
+    "README.md",
+    "Sub-Ninit Arena/Team Spaces/Jade Space"
+  ]
+}
